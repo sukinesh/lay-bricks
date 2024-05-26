@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D827DCEF-1D16-8E36-7549-245915510CB2}") = "lay bricks", "Assembly-CSharp.csproj", "{8B4BD020-36DB-9683-2A80-466A0BB4555C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4BD020-36DB-9683-2A80-466A0BB4555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4BD020-36DB-9683-2A80-466A0BB4555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4BD020-36DB-9683-2A80-466A0BB4555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4BD020-36DB-9683-2A80-466A0BB4555C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
